@@ -1,0 +1,33 @@
+@media (max-width:500px){
+
+
+    #kzy{
+    
+        height: 40px;
+        margin-top:20px;
+        margin-left: 0px;
+        color: white;
+        background-color:#72A8A8;
+        overflow: hidden;
+        font-family: 'Anton', sans-serif;
+        letter-spacing: 0.5px;
+}
+
+#ack{
+    display: none;
+}
+
+#er{
+    margin-left:20px;
+     margin-top:0px;
+}
+
+#foto{
+    width: 350px;
+}
+#videos{
+    width: 500px;
+    margin-left:-40px;
+    
+}
+}
